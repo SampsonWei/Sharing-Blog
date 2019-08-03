@@ -1,4 +1,4 @@
-#使用IntelliJ idea—IDEA配置Go语言开发环境)
+# 使用IntelliJ idea—IDEA配置Go语言开发环境)
 本文中将说明在`Windows 10`环境下使用**IDEA**来配置Go语言开发环境。
 具体步骤如下
 
