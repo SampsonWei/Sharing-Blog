@@ -1,4 +1,4 @@
-@[TOC](使用IntelliJ idea—IDEA配置Go语言开发环境)
+#使用IntelliJ idea—IDEA配置Go语言开发环境)
 本文中将说明在`Windows 10`环境下使用**IDEA**来配置Go语言开发环境。
 具体步骤如下
 
@@ -51,4 +51,4 @@ func main() {
 ```
 输入之后运行代码，出现` hello, world`
 
-==**注意**==： `package main`是必须的，而且必须为`main`，负责编译报错。
+**注意**： `package main`是必须的，而且必须为`main`，负责编译报错。
